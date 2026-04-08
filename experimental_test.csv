@@ -1,0 +1,5 @@
+index,Li_fraction_in_TM_layer,Ni_fraction,Co_fraction,Mn_fraction,first_sintering_temperature,first_sintering_time,second_sintering_temperature,second_sintering_time,mean_primary_particle_size,doi
+2,0,0.8,0.1,0.1,469,4,750,26,0.321662162,exprimental_1
+3,0,0.8,0.1,0.1,451,4,761,20,0.4945,exprimental_3
+4,0,0.8,0.1,0.1,483,3,744,6,0.253211679,exprimental_4
+4,0,0.8,0.1,0.1,476,5,741,9,0.193633333,exprimental_4
